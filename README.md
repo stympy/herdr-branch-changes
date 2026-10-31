@@ -2,6 +2,8 @@
 
 A Changes panel for the [Herdr](https://herdr.dev) desktop app that can show everything on your branch, not only uncommitted work.
 
+![The Branch view](preview.png)
+
 Herdr's own Changes panel shows uncommitted changes. Once an agent commits its work, the panel is empty. This panel adds a toggle in its header:
 
 - **Uncommitted**: the same view as Herdr's panel.
